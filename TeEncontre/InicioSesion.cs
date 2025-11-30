@@ -7,13 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace TeEncontre
 {
     public partial class InicioSesion : Form
     {
-        private DataSet dsUsuarios = new DataSet();
-        string fullPath = @"..\..\..\UsuariosClientes.xml";
+        private DataSet dsClientes = new DataSet();
+        private DataSet dsEmprendedores = new DataSet();
+        string pathClientes = @"..\..\..\UsuariosClientes.xml";
+        string pathEmprendedores = @"..\..\..\UsuariosEmprendedor.xml";
         public InicioSesion()
         {
             InitializeComponent();
@@ -21,15 +24,16 @@ namespace TeEncontre
 
         private void InicioSesion_Load(object sender, EventArgs e)
         {
-            if (File.Exists(fullPath))
+            if (File.Exists(pathClientes))
             {
-                dsUsuarios.ReadXml(fullPath);
+                dsClientes.ReadXml(pathClientes, XmlReadMode.ReadSchema);
             }
-            else
+            if (File.Exists(pathEmprendedores))
             {
-                MessageBox.Show("Base de datos aun no creada.");
+                dsEmprendedores.ReadXml(pathEmprendedores, XmlReadMode.ReadSchema);
             }
         }
+
 
         private void LinkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
@@ -53,6 +57,7 @@ namespace TeEncontre
             string user = txtUser.Text.Trim();
             string pass = textPass.Text.Trim();
             bool credencialesValidas = false;
+            string tipoUsuario = "";
 
 
             if (string.IsNullOrEmpty(user))
@@ -69,10 +74,9 @@ namespace TeEncontre
                 return;
             }
 
-            //usuario de prueba
-            if (dsUsuarios.Tables.Contains("Cliente"))
+            if (dsClientes.Tables.Contains("Cliente"))
             {
-                DataTable dtClientes = dsUsuarios.Tables["Cliente"];
+                DataTable dtClientes = dsClientes.Tables["Cliente"];
 
                 foreach (DataRow fila in dtClientes.Rows)
                 {
@@ -82,16 +86,47 @@ namespace TeEncontre
                     if (user == usuarioGuardado && pass == contrasenaGuardada)
                     {
                         credencialesValidas = true;
+                        tipoUsuario = "Cliente";
                         break;
                     }
                 }
             }
-            if (credencialesValidas == true)
+
+            if (!credencialesValidas && dsEmprendedores.Tables.Contains("Emprendedor"))
+            {
+                DataTable dtEmprendedores = dsEmprendedores.Tables["Emprendedor"];
+
+                foreach (DataRow fila in dtEmprendedores.Rows)
+                {
+                    string usuarioGuardado = fila["Negocio"].ToString();
+                    string contrasenaGuardada = fila["Contrasena"].ToString();
+
+                    if (user == usuarioGuardado && pass == contrasenaGuardada)
+                    {
+                        credencialesValidas = true;
+                        tipoUsuario = "Emprendedor";
+                        break;
+                    }
+                }
+            }
+
+            if (credencialesValidas)
             {
                 MessageBox.Show("Inicio de sesión exitoso", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                TiendaCliente Form1 = new();
-                Form1.Show();
-                this.Hide();
+
+                if(tipoUsuario == "Cliente")
+                {
+                    TiendaCliente Form1 = new();
+                    Form1.Show();
+                    this.Hide();
+                }
+
+                else if (tipoUsuario == "Emprendedor")
+                {
+                    TiendaEmprendedor Form = new();
+                    Form.Show();
+                    this.Hide();
+                }
             }
             else
             {
