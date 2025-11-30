@@ -1,0 +1,106 @@
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.exe
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.deps.json
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.runtimeconfig.json
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Form1.resources
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Properties.Resources.resources
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.GenerateResource.cache
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfoInputs.cache
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfo.cs
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.CoreCompileInputs.cache
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\refint\TeEncontre.dll
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.genruntimeconfig.cache
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\ref\TeEncontre.dll
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.InicioSesion.resources
+C:\Users\Zoller\source\repos\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.RegistroUsuario.resources
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.exe
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.deps.json
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.runtimeconfig.json
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Form1.resources
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.InicioSesion.resources
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Properties.Resources.resources
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.RegistroUsuario.resources
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.GenerateResource.cache
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfoInputs.cache
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfo.cs
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.CoreCompileInputs.cache
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\refint\TeEncontre.dll
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.genruntimeconfig.cache
+C:\Users\TDA\Desktop\TAREA DE JORDY NO LO BORRES PORFAVOR\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\ref\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\refint\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.exe
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.deps.json
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.runtimeconfig.json
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Form1.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.InicioSesion.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Properties.Resources.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TENCONTRE_REGISTROUSUARIOEMPRENDEDOR.RegistroEmprendedor.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.RegistroUsuario.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.GenerateResource.cache
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfoInputs.cache
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfo.cs
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.CoreCompileInputs.cache
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.genruntimeconfig.cache
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\ref\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Mapa.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Recuperar.resources
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.exe
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.deps.json
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.runtimeconfig.json
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Form1.resources
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.InicioSesion.resources
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.NuevaContrasenia.resources
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Properties.Resources.resources
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Recuperar.resources
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.RegistroEmprendedor.resources
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.RegistroUsuario.resources
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.GenerateResource.cache
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfoInputs.cache
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfo.cs
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.CoreCompileInputs.cache
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\refint\TeEncontre.dll
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.genruntimeconfig.cache
+C:\Users\TDA\Desktop\jordy\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\ref\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\refint\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.exe
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.deps.json
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.runtimeconfig.json
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\bin\Debug\net8.0-windows\TeEncontre.pdb
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.InicioSesion.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.NuevaContrasenia.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Properties.Resources.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Recuperar.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.RegistroEmprendedor.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.RegistroUsuario.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.GenerateResource.cache
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfoInputs.cache
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.AssemblyInfo.cs
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.csproj.CoreCompileInputs.cache
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.genruntimeconfig.cache
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\ref\TeEncontre.dll
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.Inicio.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.TiendaCliente.resources
+C:\Users\Zoller\Desktop\TeEncontre-20250610T043013Z-1-001-20251022T023746Z-1-001\TeEncontre-20250610T043013Z-1-001\TeEncontre\TeEncontre\obj\Debug\net8.0-windows\TeEncontre.TiendaEmprendedor.resources

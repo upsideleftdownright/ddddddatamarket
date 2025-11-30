@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<NegociosTencontre>
+  <xs:schema id="NegociosTencontre" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NegociosTencontre" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Emprendedor">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Nombres" type="xs:string" minOccurs="0" />
+                <xs:element name="Negocio" type="xs:string" minOccurs="0" />
+                <xs:element name="CorreoElectronico" type="xs:string" minOccurs="0" />
+                <xs:element name="Cedula" type="xs:string" minOccurs="0" />
+                <xs:element name="Contrasena" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Emprendedor>
+    <Nombres>hola2</Nombres>
+    <Negocio>hola2</Negocio>
+    <CorreoElectronico>hola2@gmail.com</CorreoElectronico>
+    <Cedula>20062006</Cedula>
+    <Contrasena>20062006</Contrasena>
+  </Emprendedor>
+</NegociosTencontre>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeEncontre", "TeEncontre\TeEncontre.csproj", "{7A2C4337-D161-460B-9CC7-9213EF8CCA63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2C4337-D161-460B-9CC7-9213EF8CCA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2C4337-D161-460B-9CC7-9213EF8CCA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2C4337-D161-460B-9CC7-9213EF8CCA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2C4337-D161-460B-9CC7-9213EF8CCA63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE39AD88-BB21-4849-91A5-543BE1DC51CD}
+	EndGlobalSection
+EndGlobal

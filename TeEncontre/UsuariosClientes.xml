@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<UsuariosTencontre>
+  <xs:schema id="UsuariosTencontre" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="UsuariosTencontre" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Cliente">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Nombres" type="xs:string" minOccurs="0" />
+                <xs:element name="Usuario" type="xs:string" minOccurs="0" />
+                <xs:element name="CorreoElectronico" type="xs:string" minOccurs="0" />
+                <xs:element name="Contrasena" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Cliente>
+    <Nombres>cliente2</Nombres>
+    <Usuario>cliente2</Usuario>
+    <CorreoElectronico>hola2@gmail.com</CorreoElectronico>
+    <Contrasena>hola1234</Contrasena>
+  </Cliente>
+  <Cliente>
+    <Nombres>hola</Nombres>
+    <Usuario>hola1</Usuario>
+    <CorreoElectronico>hola@gmail.com</CorreoElectronico>
+    <Contrasena>hola1234</Contrasena>
+  </Cliente>
+  <Cliente>
+    <Nombres>hola2</Nombres>
+    <Usuario>hola2</Usuario>
+    <CorreoElectronico>hola2@gmail.com</CorreoElectronico>
+    <Contrasena>hola12345</Contrasena>
+  </Cliente>
+</UsuariosTencontre>
